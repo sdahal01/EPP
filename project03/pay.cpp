@@ -99,7 +99,7 @@ void separateAndSave(vector<string>& compName, vector<Person>& emp)
 				outFile << emp[j].fullName() << "\t\t\t"
 				       	<< emp[j].getEmployeeId() << "\t\t\t "
 				       	<< emp[j].getCompanyName() << "\t\t"
-					<< " $"<< fixed << setprecision(2) << emp[i].totalPay() << endl;
+					<< " $"<< fixed << setprecision(2) << emp[j].totalPay() << endl;
 				totalPay += emp[j].totalPay();
 			}
 				
