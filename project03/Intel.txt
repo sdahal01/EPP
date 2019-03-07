@@ -5,4 +5,4 @@ Patricia Wright			80			 Intel		 $1280.00
 Olivia Walker			120			 Intel		 $3149.23
 Karen Hill			160			 Intel		 $2673.00
 
-	Total Pay: $20380.35
+	Total Pay: $8769.47

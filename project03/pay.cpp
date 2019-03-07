@@ -85,9 +85,8 @@ void printHighestPaid(vector<Person>& emp)
 void separateAndSave(vector<string>& compName, vector<Person>& emp)
 {	
 	string fileName;
-	float totalPay = 0.00;
 	for(int i= 0; i < compName.size(); i++)
-	{
+	{	float totalPay = 0.00;
 		fileName = compName[i];
 		ofstream outFile(fileName + ".txt");
 		outFile << "____Employee Name____________Employee ID____________Company Name______________Pay_______" << endl;
