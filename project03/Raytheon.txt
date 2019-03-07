@@ -1,0 +1,9 @@
+____Employee Name____________Employee ID____________Company Name______________Pay_______
+
+Matthew Davenport			40			 Raytheon		 $1820.00
+Amber Daniels			60			 Raytheon		 $1820.00
+James Miller			100			 Raytheon		 $1820.00
+Thomas Sanders			130			 Raytheon		 $1820.00
+Sophia Foster			140			 Raytheon		 $1820.00
+
+	Total Pay: $32566.45

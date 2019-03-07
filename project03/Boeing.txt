@@ -1,0 +1,6 @@
+____Employee Name____________Employee ID____________Company Name______________Pay_______
+
+Jfferey Jackson			20			 Boeing		 $1667.25
+Michael Lee			70			 Boeing		 $1667.25
+
+	Total Pay: $2371.00

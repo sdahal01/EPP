@@ -1,0 +1,8 @@
+____Employee Name____________Employee ID____________Company Name______________Pay_______
+
+Maria Brown			10			 Intel		 $2999.62
+Patricia Wright			80			 Intel		 $2999.62
+Olivia Walker			120			 Intel		 $2999.62
+Karen Hill			160			 Intel		 $2999.62
+
+	Total Pay: $20380.35

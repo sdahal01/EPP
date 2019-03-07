@@ -1,0 +1,6 @@
+____Employee Name____________Employee ID____________Company Name______________Pay_______
+
+Stanley Johnson			90			 HealthTech		 $581.25
+Linda Davis			110			 HealthTech		 $581.25
+
+	Total Pay: $11610.88

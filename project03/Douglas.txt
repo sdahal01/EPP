@@ -1,0 +1,7 @@
+____Employee Name____________Employee ID____________Company Name______________Pay_______
+
+Bernard Smith			30			 Douglas		 $1235.00
+Kimberley Macias			50			 Douglas		 $1235.00
+Rayan Ward			150			 Douglas		 $1235.00
+
+	Total Pay: $8053.25
